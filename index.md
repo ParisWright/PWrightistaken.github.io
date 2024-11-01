@@ -1,5 +1,5 @@
 ---
-layout: default
+PWright 
 ---
 
 Upincoming CyberSec Professional
@@ -11,7 +11,7 @@ With a strong dedication to the cybersecurity field, I’m pursuing my studies a
 
 Alongside my academic coursework, I stay up-to-date with emerging trends and threats in cybersecurity. This includes exploring cutting-edge topics, such as ethical hacking and incident response, to build a well-rounded skill set. My goal is to leverage this knowledge and hands-on experience to secure digital environments, defend against cyber threats, and ultimately contribute to a safer digital world.
 
-# Basic htmlvproject that verifies a persons age to confirm whether they are an adult or minor. 
+# Basic html project that verifies a persons age to confirm whether they are an adult or minor. 
 
 <!DOCTYPE html>
 <html lang="en">
